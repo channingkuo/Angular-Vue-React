@@ -10,6 +10,7 @@
 /build
 /www
 /.sourcemaps
+/dist
 
 # misc
 .DS_Store
